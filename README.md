@@ -13,17 +13,3 @@ The API allows you to:
 
 - **Dataset**: The dataset contains features such as variance, skewness, kurtosis, and entropy, along with a class label indicating the authenticity of the banknote.
 - **Swagger Documentation**: Swagger UI is integrated to provide interactive API documentation and testing.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have Python installed. It’s recommended to use a virtual environment.
-
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/banknote-classifier-api.git
-   cd banknote-classifier-api
